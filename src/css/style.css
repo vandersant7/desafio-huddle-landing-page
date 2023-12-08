@@ -32,7 +32,7 @@ body {
     display: grid;
     grid-template-columns: 55% 1fr;
     grid-template-rows: 1fr;
-    min-height: 85vh;
+    min-height: 82vh;
 }
 
 .principal .mockup {
@@ -81,7 +81,10 @@ body {
 .footer {
     grid-area: 2 / 2 / 3 / 3;
     text-align: right;
-    padding: 5rem;
+}
+
+.social-icon {
+    padding: 0 3rem;
 }
 
 .social-icon i {
