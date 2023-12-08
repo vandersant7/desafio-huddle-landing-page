@@ -129,6 +129,7 @@ body {
 
     .footer {
         text-align: center;
+        padding: 3rem 0;
     }
 
     @media (max-width: 576px) {
